@@ -45,6 +45,6 @@ The prosthetic finger consists of five main components, which are designed in SO
 
 
 ![s](https://github.com/user-attachments/assets/3c40b20c-b3e0-4002-b2a2-771161672900)
-![Screenshot 2024-08-07 225005](https://github.com/user-attachments/assets/dae673da-f427-4379-9059-6eb8a2ed2854)
-![Screenshot 2024-08-07 225029](https://github.com/user-attachments/assets/8136c495-328a-4383-9a82-a1282c694eed)
+
+
 ![Screenshot 2024-08-07 225044](https://github.com/user-attachments/assets/4549a7ea-4507-43b6-92db-f506df1f66a0)
