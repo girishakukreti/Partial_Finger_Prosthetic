@@ -44,7 +44,5 @@ The prosthetic finger consists of five main components, which are designed in SO
 - **Total Time**: Approximately 2 hours for assembly and printing.
 
 
-![s](https://github.com/user-attachments/assets/3c40b20c-b3e0-4002-b2a2-771161672900)
 
-
-![Screenshot 2024-08-07 225044](https://github.com/user-attachments/assets/4549a7ea-4507-43b6-92db-f506df1f66a0)
+![full_model](https://github.com/user-attachments/assets/c5e595f6-325c-4ad3-89a5-97374a82fd40)
