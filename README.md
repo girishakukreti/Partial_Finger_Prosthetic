@@ -3,6 +3,8 @@
 ## Project Overview
 
 This project involves designing and 3D printing a low-cost prosthetic finger using SOLIDWORKS and FDM (Fused Deposition Modeling) technology. The aim is to create a functional prosthetic finger that is light, durable, and cost-effective. The design integrates off-the-shelf parts with 3D-printed components to restore finger motion and function.
+![full_model](https://github.com/user-attachments/assets/c5e595f6-325c-4ad3-89a5-97374a82fd40)
+
 
 ## Features
 
@@ -45,4 +47,3 @@ The prosthetic finger consists of five main components, which are designed in SO
 
 
 
-![full_model](https://github.com/user-attachments/assets/c5e595f6-325c-4ad3-89a5-97374a82fd40)
